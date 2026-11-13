@@ -360,10 +360,6 @@ Before publishing, replace the `[Your Name]` placeholder in `LICENSE` with the c
 
 ## 👨‍💻 Author
 
-**Your Name**  
-Add your GitHub profile, LinkedIn, portfolio, and contact links here before publishing the repository.
-
----
 
 <div align="center">
   <strong>DevMind AI</strong><br />
