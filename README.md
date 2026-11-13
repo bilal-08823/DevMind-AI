@@ -358,7 +358,6 @@ DevMind AI is released under the **MIT License**. See the [`LICENSE`](LICENSE) f
 
 Before publishing, replace the `[Your Name]` placeholder in `LICENSE` with the copyright holder’s legal name or organization.
 
-## 👨‍💻 Author
 
 
 <div align="center">
