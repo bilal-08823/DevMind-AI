@@ -360,6 +360,8 @@ Before publishing, replace the `[Your Name]` placeholder in `LICENSE` with the c
 
 
 
+
+
 <div align="center">
   <strong>DevMind AI</strong><br />
   <sub>Make every codebase easier to understand.</sub><br />
