@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="docs/images/01-landing-page.png" alt="DevMind AI landing page" width="100%" />
   <h1>DevMind AI</h1>
   <p><strong>Understand your codebase. Find answers. Build better software.</strong></p>
   <p>An AI-powered GitHub repository intelligence platform designed to help developers explore unfamiliar codebases, ask grounded questions, identify code-quality and security concerns, and generate useful documentation.</p>
